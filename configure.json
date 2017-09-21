@@ -1,0 +1,10 @@
+{
+  "db_type": "postgresql",
+  "db_host": "127.0.0.1",
+  "db_role": "twitter",
+  "db_name": "twitter_db",
+  "db_passwd": "twitter",
+  "proxy": {"https":"192.168.20.93:1080"},
+  "log_file": "./run/crawler.log",
+  "store_dir": "./fetched/"
+}
